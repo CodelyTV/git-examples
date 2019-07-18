@@ -1,3 +1,5 @@
-while (true) {
+while (false) {
     console.log("Hola!");
 }
+
+console.log(adios);

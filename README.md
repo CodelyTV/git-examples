@@ -1,4 +1,4 @@
-Para gustos los colores
+Para gustos los colores.
 
 lerele
 {
